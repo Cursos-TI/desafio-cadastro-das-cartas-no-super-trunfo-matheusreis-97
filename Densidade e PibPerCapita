@@ -7,11 +7,8 @@
 //Teste larissa
 
 int main() {
-    printf("Desafio Cartas SuperTrunfo Países!\n");
-    // Sugestão: Defina variáveis separadas para cada atributo da cidade.
-    // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
 
-   
+
     // Carta 1
     char estado1;
     int codigo1;
@@ -110,5 +107,5 @@ int main() {
     printf("PIB per Capita: %.2f reais\n", pibPerCapita2);
 
     return 0;
-}
 
+}
